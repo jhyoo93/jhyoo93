@@ -1,5 +1,5 @@
 ### 안녕하세요 👋  
-🎓 Dankook University
+🎓 Dankook University 
 🌱 현재 Swift · SwiftUI 학습 중  
 
 ---
