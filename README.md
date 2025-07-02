@@ -1,7 +1,6 @@
 ### 안녕하세요 👋  
-🎓 Dankook University | 📍 Gyeonggi-do, Paju-si  
-🌱 현재 Swift · SwiftUI · iOS 앱개발 학습 중  
-💻 Full-stack 개발자로 성장 중입니다!
+🎓 Dankook University
+🌱 현재 Swift · SwiftUI 학습 중  
 
 ---
 
