@@ -1,5 +1,5 @@
 ### 안녕하세요 👋🏻
-🎓 Dankook University | 📍 Gyeonggi-do, Paju-si  
+
 🌱 현재 Swift · SwiftUI 학습 중  
 
 ---
